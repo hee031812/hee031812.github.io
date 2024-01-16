@@ -1,8 +1,8 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: heehee's
+author: Heejin's
+url: https://www.hee031812.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  HEEJIN's Blog 입니다. 공부일지를 저장하는 곳입니다.📚
 
 permalink: /:slug
 
@@ -49,3 +49,5 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
+
+lang: ko
