@@ -1,15 +1,15 @@
 title: heehee's
 author: Heejin's
-url: https://www.hee031812.github.io # root address of the site
-description: > # description of the site (multiple lines allowed)
+url: https://www.hee031812.github.io 
+description: > 
   HEEJIN's Blog 입니다. 공부일지를 저장하는 곳입니다.📚
 
 permalink: /:slug
 
-favicon: "./logo.png" # relative path to site's favicon
+favicon: "./logo.png" 
 
 twitter:
-    username: abhinav # update or delete this
+    username: abhinav 
     card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
@@ -18,7 +18,7 @@ remote_theme: abhinavs/moonwalk
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
-  back_home_text: "home.." # customize text for homepage link in post layout
+  back_home_text: "home" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar

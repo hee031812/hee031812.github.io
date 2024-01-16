@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Abhinav Saxena
+author: heejin's
 tags: [overview, moonwalk]
 ---
 
